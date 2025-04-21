@@ -1,6 +1,6 @@
 # 💥Knowledge Boundary of Large Language Models: A Survey
 
-This is the repository for the survey paper: [Knowledge Boundary of Large Language Models: A Survey](https://arxiv.org/abs/2412.12472).
+This is the repository for the survey paper: Knowledge Boundary of Large Language Models: A Survey. 
 
 <p align="center">
 <img src="./figures/tree.png" alt="Taxonomy" width="680" /> <br>
